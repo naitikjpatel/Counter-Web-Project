@@ -29,5 +29,5 @@ Key Features:
 Embark on a journey of efficient and visually appealing counter tracking with the Counter Web Project. Whether you are a developer looking for a customizable solution or a user in need of a straightforward counter tool, this project delivers a seamless experience for all.
 
 <h3>Image Of Counter-Web Project</h3>
-<img width="650" height="450" alt="image" src="https://github.com/naitikjpatel/Counter-Web-Project/assets/120157810/2349e2c1-c9b4-4132-87cc-a5bd4af783d7">
+<img width="850" height="520" alt="image" src="https://github.com/naitikjpatel/Counter-Web-Project/assets/120157810/2349e2c1-c9b4-4132-87cc-a5bd4af783d7">
 
